@@ -56,7 +56,7 @@ data:
     </html>
 ---
 apiVersion: v1
-kind: Service
+kind: Service1
 metadata:
   name: hello-arm-service
   labels:
