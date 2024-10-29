@@ -51,7 +51,7 @@ data:
     </head>
     <body>
       <h1>Hello, World!</h1>
-      <p>This is a simple HTML app deployed using ArgoCD.</p>
+      <p>This is a simple HTML app deployed using ArgoCD-edited to test sync time.</p>
     </body>
     </html>
 ---
